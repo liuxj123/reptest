@@ -1,0 +1,81 @@
+.backgroud_color{
+    background-color: rgb(195, 215, 249);
+}
+
+.wp100{
+    width:100%;
+}
+
+.login-bg{
+    width:100%; 
+    padding-top:160px;
+    background-color: slategray;
+}
+
+.login-content{
+    width: 400px;
+    height: 435px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    margin-bottom: 50px;
+    color: antiquewhite;
+}
+
+h2 {
+    color: #878d99;
+    font-size: 16px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.fi {
+    background:#fff;
+}
+.fi .el-form-item__label{
+    color: #5d8def;
+    font-weight: bold;
+}
+
+el-button--primary {
+    color: #fff;
+    background-color: #409eff;
+    border-color: #409eff;
+}
+
+.login-form {
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.header_style{
+    text-align: left; 
+    font-size: 16px; 
+    width:100%;
+    padding-top: 20px;
+    background-color: rgb(195, 215, 249);
+
+}
+
+.el-dialog__header {
+    padding: 20px 20px 10px;
+    background-color: rgb(195, 215, 249);
+}
+
+.el-dialog__title {
+    line-height: 24px;
+    font-size: 14px;
+    color: #616263;
+    font-weight: 900;
+}
+
+.el-pagination {
+    white-space: nowrap;
+    padding: 18px 5px;
+    color: #303133;
+    font-weight: 700;
+}
